@@ -8,12 +8,12 @@
     {"id":24,"courseCode":"BTN410","courseName":"Netcork Programming"},
     {"id":25,"courseCode":"BTI425","courseName":"Web Programming"},
     {"id":26,"courseCode":"BTS430","courseName":"Software Systems 2"}, 
-      { "id": 27, "courseCode": "DPS945","courseName": "Web Programming for Apps" },
-      { "id": 28, "courseCode": "BTB520","courseName": "Canadian Business Environment" },
-      { "id": 29, "courseCode": "BTH545","courseName": "Principles of GUI Design and Programming" },
-      { "id": 30, "courseCode": "DPS923","courseName": "Mobile App Development - iOS" },
-      { "id": 31, "courseCode": "BTS530","courseName": "Major Project - Plannng and Design" },
-      { "id": 32, "courseCode": "BTR490","courseName": "Investigative Research Internship" },
+    { "id": 27, "courseCode": "DPS945","courseName": "Web Programming for Apps" },
+    { "id": 28, "courseCode": "BTB520","courseName": "Canadian Business Environment" },
+    { "id": 29, "courseCode": "BTH545","courseName": "Principles of GUI Design and Programming" },
+    { "id": 30, "courseCode": "DPS923","courseName": "Mobile App Development - iOS" },
+    { "id": 31, "courseCode": "BTS530","courseName": "Major Project - Plannng and Design" },
+    { "id": 32, "courseCode": "BTR490","courseName": "Investigative Research Internship" },
     
 ]
 }
